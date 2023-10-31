@@ -9,7 +9,7 @@
 <body style="font-family:Verdana;color:#aaaaaa;">
 <Body background="https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg">   
 <h1>
-<center><b><p style="color:white">Shikara Skandana Web Application </p></b></h1></center>
+<center><b><p style="color:white">Perseverance </p></b></h1></center>
 <h2>
 <p style="color:white">Perseverance Hosting Solutions </h2>
 
