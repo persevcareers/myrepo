@@ -66,7 +66,7 @@
     </style>
 </head>
 <body>
-    <div class="header">Software Training Institute</div>
+    <div class="header">Perseverance Software Training Institute</div>
     
     <div class="sliding-menu">
         <div class="close-btn" onclick="closeMenu()">&#10006;</div>
